@@ -1,0 +1,4 @@
+name: webscrapped
+channels:
+  - defaults
+prefix: C:\Users\Lalit\.conda\envs\webscrapped
